@@ -1,0 +1,5 @@
+{
+  "name": "test-jspm",
+  "root": "./public",
+  "clean_urls": true
+}
