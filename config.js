@@ -7,3 +7,9 @@ System.config({
   }
 });
 
+System.config({
+  "map": {
+    "angular": "github:angular/bower-angular@1.3.13"
+  }
+});
+
